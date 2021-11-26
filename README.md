@@ -1,2 +1,2 @@
-# jogomediocre
-Excluí os dois repositórios anteriores, pois sou uma ameba. Jogo em andamento para entrega de trabalhos de Fundamentos da Programação, do professor Marcos Santos. Será atualizado em breve.
+# JogoMediocre1
+Primeiro jogo programado por mim. É um jogo medíocre. Jogo 2d topdown de tiro.
